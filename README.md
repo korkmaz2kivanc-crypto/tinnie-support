@@ -1,12 +1,12 @@
-# Privacy Policy for TinnAR
+# Privacy Policy for Tinnie
 
-TinnAR respects your privacy.
+Tinnie respects your privacy.
 
 This application uses the device camera solely for augmented reality (AR) interaction during exercises. Camera data is processed in real time and is NOT recorded, stored, or transmitted.
 
 The app generates audio locally on the device for tinnitus exercises. No audio is recorded or sent to any server.
 
-TinnAR does not collect, store, or share any personal data.
+Tinnie does not collect, store, or share any personal data.
 No account creation is required.
 No analytics or third-party tracking services are used.
 
