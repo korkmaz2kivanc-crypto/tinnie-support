@@ -220,9 +220,9 @@
       <h3>What subscription options are available?</h3>
       <p>Tinnie offers three plans:</p>
       <ul>
-        <li>Monthly — $4.99 / month</li>
-        <li>Yearly — $29.99 / year (save 50%)</li>
-        <li>Lifetime — $59.99 one-time (up to 75% savings)</li>
+        <li>Monthly — / month</li>
+        <li>Yearly — / year (save 50%)</li>
+        <li>Lifetime — </li>
       </ul>
       <p>You can cancel your subscription at any time through your App Store or Google Play account settings.</p>
     </div>
