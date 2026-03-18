@@ -203,17 +203,17 @@
 
     <div class="card">
       <h3>What is Tinnie?</h3>
-      <p>Tinnie is a gamified exercise app for people with tinnitus. You match your tinnitus sound, then engage in 9 different interactive exercises designed to give your mind a break from the ringing. It is not a medical device and does not claim to treat or cure tinnitus.</p>
+      <p>Tinnie is a gamified exercise app for people with tinnitus. You match your tinnitus sound, then engage in 10 different interactive exercises designed to give your mind a break from the ringing. It is not a medical device and does not claim to treat or cure tinnitus.</p>
     </div>
 
     <div class="card">
       <h3>Why does the app need camera access?</h3>
-      <p>7 of the 9 exercises use your camera as a live background so you can play in your real-world environment. Camera data is processed in real time on your device and is never recorded, stored, or transmitted.</p>
+      <p>7 of the 10 exercises use your camera as a live background so you can play in your real-world environment. Camera data is processed in real time on your device and is never recorded, stored, or transmitted.</p>
     </div>
 
     <div class="card">
       <h3>Which exercises are free?</h3>
-      <p>Bubbles, Mosquito, and Beehive are free to play during the 14-day trial period. All 9 exercises are available with a full subscription.</p>
+      <p>Bubbles, Mosquito, and Beehive are free to play during the 14-day trial period. All 10 exercises are available with a full subscription.</p>
     </div>
 
     <div class="card">
@@ -272,7 +272,7 @@
     <p>Payments are processed entirely by Apple App Store or Google Play. Tinnie does not have access to your payment information. Subscription status is verified through the respective store's APIs.</p>
 
     <h3>Children's Privacy</h3>
-    <p>Tinnie is not directed at children under the age of 13. We do not knowingly collect any information from children.</p>
+    <p>Tinnie is not directed at children under the age of 18. We do not knowingly collect any information from children.</p>
 
     <h3>Medical Disclaimer</h3>
     <p>Tinnie is not a medical device. The exercises are not intended to diagnose, treat, cure, or prevent any medical condition. If you have concerns about your tinnitus, please consult a qualified healthcare professional.</p>
