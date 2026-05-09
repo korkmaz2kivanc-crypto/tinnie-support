@@ -48,7 +48,7 @@ h1 em{font-style:italic;background:linear-gradient(135deg,var(--gold2) 0%,var(--
 /* VIDEO SECTION */
 #video-section{padding:80px 24px;background:var(--bg2);}
 .video-inner{max-width:900px;margin:0 auto;text-align:center;}
-.video-wrapper{position:relative;margin-top:48px;border-radius:24px;overflow:hidden;border:0.5px solid rgba(78,232,192,0.2);box-shadow:0 0 80px rgba(78,232,192,0.06);max-width:360px;margin-left:auto;margin-right:auto;}
+.video-wrapper{position:relative;margin-top:48px;border-radius:24px;overflow:hidden;border:0.5px solid rgba(78,232,192,0.2);box-shadow:0 0 80px rgba(78,232,192,0.06);max-width:320px;max-height:500px;margin-left:auto;margin-right:auto;}
 .video-wrapper video{width:100%;display:block;}
 
 /* FEATURES */
@@ -185,7 +185,7 @@ footer{border-top:0.5px solid var(--border);padding:40px 40px 32px;display:flex;
     <h2 class="section-title" style="margin:0 auto 16px;">Watch how Tinnie works.</h2>
     <p style="color:var(--text2);font-size:15px;">A quick look at the exercises, sound matching, and the experience of using Tinnie.</p>
     <div class="video-wrapper">
-      <video controls playsinline preload="metadata" poster="">
+      <video controls playsinline preload="metadata" poster="" style="max-height:500px;width:100%;object-fit:contain;background:#000;">
         <source src="tinnie_promo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
